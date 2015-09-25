@@ -1,3 +1,3 @@
 # VinothKumar Resume
 
-https://docs.google.com/viewer?url=${VinothKumarVR_Resume.pdf}
+[embed]https://github.com/vinothkumar6692/Resume/blob/master/VinothKumarVR_Resume.pdf[/embed]
